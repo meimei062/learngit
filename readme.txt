@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 This is master.
 Creating a new branch is quick.
+this is readme.
